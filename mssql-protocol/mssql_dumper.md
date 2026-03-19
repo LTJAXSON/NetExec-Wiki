@@ -70,10 +70,4 @@ corp_db.users => username: john, password: Summer2024!, email: john.doe@corp.loc
 [+] Data saved to ~/.nxc/modules/mssql-dumper/DC01_10.129.204.177.json
 ```
 
----
-
-## Notes
-- Requires valid MSSQL credentials
-- Output saved in JSON format: `~/.nxc/modules/mssql-dumper/`
-- Combine `REGEX` and `LIKE_SEARCH` for better coverage
 
